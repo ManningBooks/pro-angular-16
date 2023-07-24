@@ -1,0 +1,13 @@
+{  
+    "devDependencies": {
+      "json-server": "0.17.3",
+      "jsonwebtoken": "8.5.1",
+      "express": "4.17.3",
+      "https": "1.0.0",
+      "connect-history-api-fallback": "1.6.0"       
+    },
+  
+    "scripts": {
+      "start":  "node server.js"
+    }
+}

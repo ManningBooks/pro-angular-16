@@ -1,0 +1,5 @@
+/table/Watersports
+/table/Soccer
+/table/Chess
+/table/products
+/table/categories

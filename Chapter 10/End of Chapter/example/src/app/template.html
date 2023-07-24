@@ -1,0 +1,15 @@
+<div class="bg-info text-white p-2">
+    There are {{ count() }} products in the model
+</div>
+<div class="bg-primary text-white p-2">
+    {{ message() }}
+</div>
+<div class="bg-info text-white p-2">
+    Ticker: {{ tickerValue() }}
+</div>
+<button class="btn btn-primary m-2" (click)="toggleMessage()">
+    Toggle
+</button>
+<button class="btn btn-primary m-2" (click)="removeProduct()">
+    Remove
+</button>
