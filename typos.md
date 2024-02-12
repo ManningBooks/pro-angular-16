@@ -4,6 +4,18 @@ This file contains smaller errors that are unlikely to prevent the code examples
 
 ---
 
+**Chapter 4**
+
+On page 105, the output from Listing 4.22 should be:
+
+    Name: Hat, Price: 100
+    Name: Boots, Price: 100, Category: Snow Gear
+
+(Thanks to Håkan Johansson for reporting this problem)
+
+
+---
+
 **Chapter 9**
 
 On page 310, the text that follows Listing 9.23 should be:
